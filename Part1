@@ -1,0 +1,14 @@
+Reporting-MTA: dns; bbtpnj33vzwvmta-c-rh-cmta-01-sms-00.vtext.com
+X-Postfix-Queue-ID: 303A58864D7
+X-Postfix-Sender: rfc822; 4245266331@vzwpix.com
+Arrival-Date: Sun,  5 Jan 2025 10:26:02 +0000 (UTC)
+
+Final-Recipient: rfc822; elon.musk@gmail.com
+Original-Recipient: rfc822;elon.musk@gmail.com
+Action: failed
+Status: 5.2.2
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 552-5.2.2 The recipient's inbox is out of storage space
+    and inactive. Please 552-5.2.2 direct the recipient to 552 5.2.2
+    https://support.google.com/mail/?p=OverQuotaPerm
+    d75a77b69052e-46a3e6a9ec3si430011641cf.170 - gsmtp
